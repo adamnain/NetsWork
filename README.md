@@ -1,4 +1,4 @@
 # NetsWork
 Apps for employee work force
+![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
 
-![picture alt](https://drive.google.com/file/d/1eDomCg6q8C6AMKMXrpYgiKaKKbNol49H/view)
